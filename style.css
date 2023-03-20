@@ -1,0 +1,35 @@
+  body{
+    background-color: palegreen;
+    color: orange;
+    border: solid;
+  }
+  h1{
+    color: black;
+    
+  }
+  img{
+    color:palevioletred;
+    border: solid;
+  }
+  h4{
+    color: black;}
+    #Nextbutton{
+        background-color: black;
+        font-weight:bold;
+        color: pink;
+        border-radius: 0px;
+        margin-bottom: 10px;
+    }
+    #Backbutton{
+        background-color: blue;
+        font-weight: bold;
+        color: black;
+        border-radius: 0px;
+        margin-bottom: 10px;
+    }
+    .Explaining{
+        color:blanchedalmond;
+        
+
+    }
+  
